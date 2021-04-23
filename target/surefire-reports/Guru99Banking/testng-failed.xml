@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Guru99Banking]">
+  <listeners>
+    <listener class-name="com.qa.ExtentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="C:/Users/GUDU/Downloads/InternetGuru99Bank(failed)" parallel="tests">
+    <classes>
+      <class name="com.qa.test.AdminLogintest">
+        <methods>
+          <include name="teardown"/>
+          <include name="checkingLogo"/>
+          <include name="setUp"/>
+          <include name="logincredential"/>
+        </methods>
+      </class> <!-- com.qa.test.AdminLogintest -->
+    </classes>
+  </test> <!-- C:/Users/GUDU/Downloads/InternetGuru99Bank(failed) -->
+</suite> <!-- Failed suite [Guru99Banking] -->

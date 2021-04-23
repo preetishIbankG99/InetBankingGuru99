@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Guru99Banking" duration-ms="123100" started-at="2021-04-23T05:54:45Z" finished-at="2021-04-23T05:56:49Z">
+    <groups>
+    </groups>
+    <test name="C:/Users/GUDU/Downloads/InternetGuru99Bank" duration-ms="123100" started-at="2021-04-23T05:54:45Z" finished-at="2021-04-23T05:56:49Z">
+      <class name="com.qa.test.AdminLogintest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.AdminLogintest@8b7f67]" name="setUp" is-config="true" duration-ms="51887" started-at="2021-04-23T05:54:47Z" finished-at="2021-04-23T05:55:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkingLink()[pri:0, instance:com.qa.test.AdminLogintest@8b7f67]" name="checkingLink" duration-ms="169" started-at="2021-04-23T05:55:39Z" finished-at="2021-04-23T05:55:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingLink -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.test.AdminLogintest@8b7f67]" name="teardown" is-config="true" duration-ms="340" started-at="2021-04-23T05:55:40Z" finished-at="2021-04-23T05:55:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.AdminLogintest@8b7f67]" name="setUp" is-config="true" duration-ms="26958" started-at="2021-04-23T05:55:40Z" finished-at="2021-04-23T05:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkingLogo()[pri:0, instance:com.qa.test.AdminLogintest@8b7f67]" name="checkingLogo" duration-ms="383" started-at="2021-04-23T05:56:07Z" finished-at="2021-04-23T05:56:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingLogo -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.test.AdminLogintest@8b7f67]" name="teardown" is-config="true" duration-ms="26" started-at="2021-04-23T05:56:08Z" finished-at="2021-04-23T05:56:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.AdminLogintest@8b7f67]" name="setUp" is-config="true" duration-ms="29048" started-at="2021-04-23T05:56:08Z" finished-at="2021-04-23T05:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logincredential()[pri:0, instance:com.qa.test.AdminLogintest@8b7f67]" name="logincredential" duration-ms="7686" started-at="2021-04-23T05:56:37Z" finished-at="2021-04-23T05:56:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logincredential -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.test.AdminLogintest@8b7f67]" name="teardown" is-config="true" duration-ms="4248" started-at="2021-04-23T05:56:44Z" finished-at="2021-04-23T05:56:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.test.AdminLogintest -->
+    </test> <!-- C:/Users/GUDU/Downloads/InternetGuru99Bank -->
+  </suite> <!-- Guru99Banking -->
+</testng-results>

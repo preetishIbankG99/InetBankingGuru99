@@ -1,0 +1,768 @@
+2021-04-20 18:28:23,882 [TestNG-test=Internetbanking-3] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 18:28:34,985 [TestNG-test=Internetbanking-3] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 18:28:55,841 [TestNG-test=Internetbanking-1] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 18:28:56,184 [TestNG-test=Internetbanking-3] INFO InternetGuru99Bank - url entered
+2021-04-20 18:28:56,893 [TestNG-test=Internetbanking-1] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 18:29:03,974 [TestNG-test=Internetbanking-1] INFO InternetGuru99Bank - url entered
+2021-04-20 18:29:33,978 [TestNG-test=Internetbanking-2] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 18:29:34,187 [TestNG-test=Internetbanking-2] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 18:29:43,768 [TestNG-test=Internetbanking-2] INFO InternetGuru99Bank - url entered
+2021-04-20 18:31:53,822 [TestNG-test=Internetbanking-1] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 18:31:53,901 [TestNG-test=Internetbanking-1] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 18:31:59,759 [TestNG-test=Internetbanking-1] INFO InternetGuru99Bank - url entered
+2021-04-20 18:32:08,784 [TestNG-test=Internetbanking-3] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 18:32:11,621 [TestNG-test=Internetbanking-3] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 18:32:24,248 [TestNG-test=Internetbanking-3] INFO InternetGuru99Bank - url entered
+2021-04-20 18:32:41,153 [TestNG-test=Internetbanking-2] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 18:32:41,291 [TestNG-test=Internetbanking-2] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 18:32:46,582 [TestNG-test=Internetbanking-2] INFO InternetGuru99Bank - url entered
+2021-04-20 18:37:58,584 [TestNG-test=Internetbanking-2] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 18:38:03,433 [TestNG-test=Internetbanking-2] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 18:38:25,549 [TestNG-test=Internetbanking-2] INFO InternetGuru99Bank - url entered
+2021-04-20 18:38:25,758 [TestNG-test=Internetbanking-2] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-20 18:39:38,534 [TestNG-test=Internetbanking-3] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 18:39:38,636 [TestNG-test=Internetbanking-3] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 18:39:47,389 [TestNG-test=Internetbanking-3] INFO InternetGuru99Bank - url entered
+2021-04-20 18:39:49,237 [TestNG-test=Internetbanking-3] INFO InternetGuru99Bank - Username:::Entered
+2021-04-20 18:39:49,308 [TestNG-test=Internetbanking-3] INFO InternetGuru99Bank - Password:::Entered
+2021-04-20 18:39:52,904 [TestNG-test=Internetbanking-3] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-20 18:40:13,000 [TestNG-test=Internetbanking-1] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 18:40:13,099 [TestNG-test=Internetbanking-1] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 18:40:26,467 [TestNG-test=Internetbanking-1] INFO InternetGuru99Bank - url entered
+2021-04-20 18:40:28,948 [TestNG-test=Internetbanking-1] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-20 18:41:07,014 [TestNG-test=Internetbanking-2] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 18:41:07,262 [TestNG-test=Internetbanking-2] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 18:41:13,126 [TestNG-test=Internetbanking-2] INFO InternetGuru99Bank - url entered
+2021-04-20 18:41:13,412 [TestNG-test=Internetbanking-2] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-20 18:42:40,484 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 18:42:41,360 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 18:42:54,737 [main] INFO InternetGuru99Bank - url entered
+2021-04-20 18:42:54,912 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-20 18:43:28,421 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 18:43:28,542 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 18:43:50,562 [main] INFO InternetGuru99Bank - url entered
+2021-04-20 18:43:50,696 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-20 18:46:47,615 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 18:46:48,110 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 18:46:53,257 [main] INFO InternetGuru99Bank - url entered
+2021-04-20 18:46:54,365 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-20 18:47:16,705 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 18:47:17,612 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 18:47:22,303 [main] INFO InternetGuru99Bank - url entered
+2021-04-20 18:47:22,439 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-20 18:48:08,951 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 18:48:09,521 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 18:48:16,716 [main] INFO InternetGuru99Bank - url entered
+2021-04-20 18:48:16,914 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-20 18:48:16,987 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-20 18:50:06,725 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 18:50:07,133 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 18:50:12,074 [main] INFO InternetGuru99Bank - url entered
+2021-04-20 18:50:12,253 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-20 18:50:27,369 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 18:50:27,922 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 18:50:34,935 [main] INFO InternetGuru99Bank - url entered
+2021-04-20 18:50:35,076 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-20 18:51:13,645 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 18:51:13,775 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 18:51:19,018 [main] INFO InternetGuru99Bank - url entered
+2021-04-20 18:51:19,215 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-20 18:51:19,293 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-20 18:51:23,637 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-20 22:00:46,075 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 22:00:49,243 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 22:01:25,393 [main] INFO InternetGuru99Bank - url entered
+2021-04-20 22:22:52,960 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 22:22:54,529 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 22:23:29,664 [main] INFO InternetGuru99Bank - url entered
+2021-04-20 22:23:38,665 [main] INFO InternetGuru99Bank - :::::New Customer Link Clicked::::::
+2021-04-20 22:41:08,867 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-20 22:41:10,979 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-20 22:41:38,201 [main] INFO InternetGuru99Bank - url entered
+2021-04-20 22:42:08,153 [main] INFO InternetGuru99Bank - :::::New Customer Link Clicked::::::
+2021-04-21 11:50:57,686 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 11:50:59,664 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 11:51:08,116 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 11:51:08,784 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-21 11:51:25,843 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 11:51:26,740 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 11:51:30,758 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 11:51:31,098 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-21 11:52:01,893 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 11:52:04,229 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 11:52:08,045 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 11:52:09,092 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 11:52:09,180 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 11:52:12,619 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 11:57:46,536 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 11:57:46,924 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 11:57:50,533 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 11:57:50,711 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-21 11:58:12,206 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 11:58:12,327 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 11:58:17,525 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 11:58:17,665 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-21 11:58:30,977 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 11:58:31,165 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 11:58:40,845 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 11:58:41,057 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 11:58:41,130 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 11:58:43,909 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 12:07:35,387 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 12:07:35,596 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 12:07:42,889 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 12:07:46,118 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-21 12:08:07,307 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 12:08:08,022 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 12:08:11,956 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 12:08:13,199 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-21 12:08:29,346 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 12:08:35,762 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 12:08:39,576 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 12:08:39,768 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 12:08:39,843 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 12:08:42,432 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 12:12:02,733 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 12:12:03,411 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 12:12:07,319 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 12:12:07,484 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-21 12:12:31,618 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 12:12:32,310 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 12:12:35,561 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 12:12:35,755 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-21 12:12:48,810 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 12:12:49,911 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 12:12:53,825 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 12:12:55,784 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 12:12:55,854 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 12:12:56,412 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 12:14:44,478 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 12:14:44,631 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 12:14:48,591 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 12:14:48,760 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-21 12:15:06,210 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 12:15:06,261 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 12:15:10,592 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 12:15:10,731 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-21 12:15:31,965 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 12:15:32,966 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 12:15:39,396 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 12:15:39,802 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 12:15:39,880 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 12:15:43,328 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 12:16:02,648 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 12:16:02,909 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 12:16:07,929 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 12:16:17,890 [main] INFO InternetGuru99Bank - :::::New Customer Link Clicked::::::
+2021-04-21 13:07:04,799 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 13:07:07,376 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 13:07:28,036 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 13:10:20,023 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 13:10:20,158 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 13:10:27,630 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 13:15:33,748 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 13:15:34,117 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 13:15:42,674 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 13:18:10,583 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 13:18:13,376 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 13:18:19,899 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 13:24:47,381 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 13:24:48,923 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 13:24:59,737 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 13:30:36,802 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 13:30:44,655 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 13:30:52,070 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 13:34:46,167 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 13:34:46,949 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 13:34:51,414 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 13:37:14,529 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 13:37:14,990 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 13:37:24,569 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 13:40:56,180 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 13:40:56,921 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 13:41:02,540 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 13:41:36,648 [main] INFO InternetGuru99Bank - ::Manager Id verified::
+2021-04-21 13:41:36,683 [main] INFO InternetGuru99Bank - ::Header verified::
+2021-04-21 13:45:07,063 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 13:45:10,482 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 13:45:18,425 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 13:45:27,712 [main] INFO InternetGuru99Bank - ::Title Verified::
+2021-04-21 13:45:27,812 [main] INFO InternetGuru99Bank - ::Manager Id verified::
+2021-04-21 13:45:27,857 [main] INFO InternetGuru99Bank - ::Header verified::
+2021-04-21 13:47:37,295 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 13:47:41,396 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 13:47:45,928 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 13:47:53,967 [main] INFO InternetGuru99Bank - ::Title Verified::
+2021-04-21 13:47:54,052 [main] INFO InternetGuru99Bank - ::Manager Id verified::
+2021-04-21 13:47:54,097 [main] INFO InternetGuru99Bank - ::Header verified::
+2021-04-21 18:46:13,703 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 18:46:20,932 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 18:46:34,487 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 18:46:51,039 [main] INFO InternetGuru99Bank - ::Title Verified::
+2021-04-21 18:46:51,086 [main] INFO InternetGuru99Bank - ::Manager Id verified::
+2021-04-21 18:46:51,117 [main] INFO InternetGuru99Bank - ::Header verified::
+2021-04-21 18:50:46,151 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 18:50:46,851 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 18:50:51,108 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 18:50:51,301 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-21 18:51:16,918 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 18:51:17,021 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 18:51:24,182 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 18:51:24,718 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-21 18:51:45,158 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 18:51:46,358 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 18:51:51,466 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 18:51:51,656 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 18:51:51,732 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 18:51:55,976 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 19:14:39,796 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 19:14:40,202 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 19:14:47,916 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 19:14:51,799 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-21 19:15:30,813 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 19:15:31,075 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 19:15:38,408 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 19:15:38,564 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-21 19:16:12,501 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 19:16:13,037 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 19:16:24,552 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 19:16:24,833 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 19:16:29,100 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 19:16:30,671 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 19:30:01,636 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 19:30:02,212 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 19:30:08,959 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 19:30:44,768 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 19:30:45,151 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 19:30:50,037 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 19:30:50,246 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 19:30:50,319 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 19:30:56,369 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 19:37:08,405 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 19:37:09,919 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 19:37:30,997 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 19:37:35,156 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-21 19:38:06,701 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 19:38:06,779 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 19:38:11,615 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 19:38:40,254 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 19:38:41,327 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 19:38:55,521 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 19:38:55,740 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 19:38:55,818 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 19:38:58,750 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 19:44:29,036 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 19:44:30,215 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 19:44:44,359 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 19:44:49,290 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-21 19:45:11,033 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 19:45:11,329 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 19:45:17,323 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 19:45:58,446 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 19:45:58,572 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 19:46:06,781 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 19:46:06,978 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 19:46:07,046 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 19:46:12,369 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 19:51:27,796 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 19:51:28,459 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 19:51:36,376 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 19:51:46,519 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-21 19:52:33,899 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 19:52:34,349 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 19:52:43,273 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 19:53:01,410 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 19:53:01,560 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 19:54:15,539 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 19:54:15,757 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 19:54:15,851 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 19:54:18,128 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 19:58:30,474 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 19:58:30,957 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 19:58:36,122 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 19:58:36,352 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-21 19:59:01,815 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 19:59:02,609 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 19:59:07,028 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 19:59:37,098 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 19:59:38,837 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 19:59:46,618 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 19:59:46,808 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 19:59:46,878 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 19:59:49,719 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 20:03:53,069 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 20:03:53,973 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 20:04:04,500 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 20:04:08,419 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-21 20:04:46,796 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 20:04:47,046 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 20:04:53,879 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 20:04:54,004 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-21 20:05:29,541 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 20:05:29,656 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 20:05:34,210 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 20:05:34,433 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 20:05:34,499 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 20:05:38,074 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 21:01:03,783 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 21:01:04,758 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 21:01:21,841 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 21:01:22,199 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-21 21:01:50,725 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 21:01:52,265 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 21:03:28,162 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 21:03:43,494 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 21:03:48,192 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 21:04:02,299 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 21:04:13,952 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 21:04:14,888 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 21:04:16,713 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 21:07:47,459 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 21:07:47,579 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 21:08:03,647 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 21:08:08,108 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-21 21:08:55,468 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 21:08:56,177 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 21:09:00,861 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 21:09:00,994 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-21 21:09:47,074 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 21:09:47,211 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 21:10:08,853 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 21:10:15,233 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 21:10:15,311 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 21:10:19,039 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 21:25:07,606 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 21:25:07,700 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 21:25:12,398 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 21:25:13,461 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-21 21:25:47,317 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 21:25:47,763 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 21:25:52,947 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 21:25:53,088 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-21 21:26:06,625 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 21:26:07,376 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 21:26:12,005 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 21:26:12,215 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 21:26:12,280 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 21:26:21,191 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 21:31:50,650 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 21:31:50,812 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 21:32:15,950 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 21:32:16,106 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-21 21:32:40,987 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 21:32:52,112 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 21:33:02,122 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 21:33:02,247 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-21 21:33:30,054 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 21:33:30,376 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 21:33:34,715 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 21:33:34,911 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 21:33:34,982 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 21:33:43,644 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 22:00:55,349 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 22:00:56,939 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 22:01:02,876 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 22:01:03,049 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-21 22:01:42,421 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 22:01:43,110 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 22:01:48,253 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 22:01:48,389 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-21 22:02:20,528 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 22:02:20,640 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 22:02:36,725 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 22:02:36,928 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 22:02:37,006 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 22:02:43,389 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 22:49:32,692 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 22:49:37,093 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 22:49:42,225 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 22:49:42,399 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-21 22:50:00,691 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 22:50:02,093 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 22:50:06,098 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 22:50:06,229 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-21 22:50:42,957 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 22:50:47,733 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 22:50:53,189 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 22:50:53,393 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-21 22:50:53,465 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-21 22:50:57,099 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-21 23:01:30,769 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 23:01:32,230 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 23:01:39,620 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 23:01:48,262 [main] INFO InternetGuru99Bank - :::::New Customer Link Clicked::::::
+2021-04-21 23:11:06,222 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 23:11:12,295 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 23:11:23,913 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 23:11:42,789 [main] INFO InternetGuru99Bank - :::::New Customer Link Clicked::::::
+2021-04-21 23:33:40,819 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 23:33:45,253 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 23:33:50,620 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 23:34:04,109 [main] INFO InternetGuru99Bank - :::::New Customer Link Clicked::::::
+2021-04-21 23:36:19,663 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 23:36:19,791 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 23:36:23,809 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 23:36:33,793 [main] INFO InternetGuru99Bank - :::::New Customer Link Clicked::::::
+2021-04-21 23:40:11,827 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-21 23:40:13,323 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-21 23:40:17,449 [main] INFO InternetGuru99Bank - url entered
+2021-04-21 23:40:26,103 [main] INFO InternetGuru99Bank - :::::New Customer Link Clicked::::::
+2021-04-22 07:18:43,843 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 07:18:47,939 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 07:19:06,196 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 07:19:07,226 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-22 07:25:12,584 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 07:25:17,637 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 07:27:16,472 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 07:27:16,782 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 07:27:32,110 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 07:27:47,992 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-22 07:35:26,815 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 07:35:31,203 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 07:35:37,704 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 07:35:40,686 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-22 07:36:22,959 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 07:36:23,161 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 07:36:39,920 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 07:36:49,530 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-22 07:37:20,640 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 07:37:21,979 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 07:37:28,676 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 07:37:33,122 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-22 07:37:34,167 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-22 07:37:43,901 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-22 09:24:36,941 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 09:24:44,262 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 09:25:01,216 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 09:25:02,371 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-22 09:25:26,638 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 09:25:28,144 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 09:25:32,323 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 09:25:45,205 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-22 09:26:26,088 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 09:26:26,200 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 09:26:34,591 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 09:26:35,091 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-22 09:26:35,215 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-22 09:26:40,831 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-22 11:00:17,418 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 11:00:20,035 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 11:00:41,981 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 11:00:44,571 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-22 11:01:18,966 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 11:01:20,082 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 11:01:39,012 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 11:01:39,173 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-22 11:02:00,386 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 11:02:01,173 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 11:02:17,885 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 11:02:18,221 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-22 11:02:18,294 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-22 11:02:20,446 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-22 11:39:20,614 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 11:39:24,798 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 11:39:46,667 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 11:39:47,549 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-22 11:40:09,062 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 11:40:09,557 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 11:40:13,581 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 11:40:13,909 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-22 11:40:51,523 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 11:40:52,420 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 11:40:59,842 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 11:41:01,272 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-22 11:41:01,341 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-22 11:41:03,743 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-22 12:08:09,749 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 12:08:13,013 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 12:08:39,022 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 12:08:47,305 [main] INFO InternetGuru99Bank - ::Title Verified::
+2021-04-22 12:08:47,446 [main] INFO InternetGuru99Bank - ::Manager Id verified::
+2021-04-22 12:08:47,571 [main] INFO InternetGuru99Bank - ::Header verified::
+2021-04-22 12:16:29,662 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 12:16:30,649 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 12:16:36,542 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 12:16:42,923 [main] INFO InternetGuru99Bank - ::Manager Id verified::
+2021-04-22 12:16:42,954 [main] INFO InternetGuru99Bank - ::Header verified::
+2021-04-22 12:22:08,548 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 12:22:10,626 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 12:22:21,125 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 12:22:31,374 [main] INFO InternetGuru99Bank - ::Title Verified::
+2021-04-22 12:25:05,839 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 12:25:06,948 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 12:25:11,263 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 12:25:18,479 [main] INFO InternetGuru99Bank - ::Title Verified::
+2021-04-22 12:29:34,876 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 12:29:36,730 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 12:29:41,502 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 12:30:01,681 [main] INFO InternetGuru99Bank - :::::New Customer Link Clicked::::::
+2021-04-22 12:48:00,344 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 12:48:00,913 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 12:48:09,363 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 12:51:27,028 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 12:51:27,738 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 12:52:04,357 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 12:55:42,291 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 12:55:42,532 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 12:55:47,961 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 12:58:01,825 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 12:58:02,003 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 12:58:06,839 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 13:04:05,585 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 13:04:07,691 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 13:04:33,665 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 13:09:16,768 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 13:09:17,522 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 13:09:45,037 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 13:11:33,604 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 13:11:33,736 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 13:11:40,169 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 13:14:55,586 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 13:15:05,398 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 13:15:16,256 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 13:18:18,055 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 13:18:22,299 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 13:18:29,615 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 13:21:45,534 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 13:21:51,379 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 13:21:57,494 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 16:42:34,794 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 16:42:37,285 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 16:42:56,703 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 16:51:17,743 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 16:51:18,142 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 16:51:23,096 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 16:54:09,217 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 16:54:11,132 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 16:54:18,162 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 17:08:36,887 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 17:08:39,355 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 17:08:45,283 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 17:08:51,070 [main] INFO InternetGuru99Bank - ::New Account Clicked::
+2021-04-22 17:14:36,382 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 17:14:38,043 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 17:14:42,798 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 17:14:47,974 [main] INFO InternetGuru99Bank - ::New Account Clicked::
+2021-04-22 17:16:21,672 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 17:16:21,813 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 17:16:27,870 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - url entered
+2021-04-22 17:16:34,780 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - ::New Account Clicked::
+2021-04-22 18:00:06,903 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 18:00:11,704 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 18:00:16,521 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - url entered
+2021-04-22 18:00:22,433 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - ::New Account Clicked::
+2021-04-22 18:03:10,787 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 18:03:11,276 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 18:03:17,542 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - url entered
+2021-04-22 18:03:23,103 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - ::New Account Clicked::
+2021-04-22 18:04:25,990 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 18:04:26,067 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 18:05:02,991 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - url entered
+2021-04-22 18:05:06,985 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - ::New Account Clicked::
+2021-04-22 18:22:58,104 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Chrome::Browser::Opened
+2021-04-22 18:22:59,556 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 18:23:07,961 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - url entered
+2021-04-22 18:23:17,482 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - ::New Account Clicked::
+2021-04-22 18:27:05,549 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Chrome::Browser::Opened
+2021-04-22 18:27:06,795 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 18:27:22,787 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - url entered
+2021-04-22 18:27:32,631 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - ::New Account Clicked::
+2021-04-22 18:38:18,911 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Chrome::Browser::Opened
+2021-04-22 18:38:20,218 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 18:38:27,120 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - url entered
+2021-04-22 18:41:15,203 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Chrome::Browser::Opened
+2021-04-22 18:41:16,432 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 18:41:33,469 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - url entered
+2021-04-22 18:41:43,759 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - ::New Account Clicked::
+2021-04-22 18:42:36,324 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Chrome::Browser::Opened
+2021-04-22 18:42:37,596 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 18:45:05,171 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - url entered
+2021-04-22 18:46:44,771 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Chrome::Browser::Opened
+2021-04-22 18:46:46,204 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 18:47:25,493 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - url entered
+2021-04-22 18:48:44,808 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Chrome::Browser::Opened
+2021-04-22 18:48:46,023 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 18:49:33,281 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - url entered
+2021-04-22 18:52:09,939 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 18:52:11,191 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 18:53:00,770 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - url entered
+2021-04-22 18:53:38,179 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - ::New Account Clicked::
+2021-04-22 18:54:17,479 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 18:54:17,981 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 18:55:00,451 [TestNG-test=C:/Users/GUDU/Downloads/InternetGuru99Bank-1] INFO InternetGuru99Bank - url entered
+2021-04-22 18:59:26,055 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 18:59:40,000 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 19:00:25,561 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 19:00:25,779 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-22 19:00:48,234 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 19:00:49,232 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 19:01:12,823 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 19:01:13,151 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-22 19:01:41,337 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 19:01:44,700 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 19:02:29,279 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 19:02:29,482 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-22 19:02:29,560 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-22 19:02:32,025 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-22 19:03:36,975 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 19:03:37,870 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 19:04:21,251 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 19:04:22,280 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-22 19:04:40,450 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 19:04:40,726 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 19:05:39,617 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 19:05:39,742 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-22 19:06:07,393 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 19:06:07,923 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 19:06:53,481 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 19:06:53,668 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-22 19:06:53,746 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-22 19:07:00,584 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-22 19:11:50,910 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 19:11:51,710 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 19:12:35,662 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 19:12:35,849 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-22 19:12:43,211 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 19:12:43,840 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 19:13:56,656 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 19:13:56,796 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-22 19:14:12,763 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 19:14:12,836 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 19:14:56,015 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 19:14:56,203 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-22 19:14:56,281 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-22 19:14:57,965 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-22 19:23:56,458 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 19:23:57,248 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 19:24:20,422 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 19:24:20,609 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-22 19:24:43,296 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 19:24:43,417 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 19:25:08,404 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 19:25:08,529 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-22 19:25:21,368 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 19:25:21,433 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 19:25:45,695 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 19:25:45,882 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-22 19:25:45,960 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-22 19:25:50,204 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-22 20:42:02,352 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 20:42:10,805 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 20:43:04,167 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 20:43:05,383 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-22 20:43:43,607 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 20:43:44,122 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 20:44:06,991 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 20:44:07,132 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-22 20:44:40,997 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-22 20:44:41,162 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-22 20:45:25,370 [main] INFO InternetGuru99Bank - url entered
+2021-04-22 20:45:25,557 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-22 20:45:25,635 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-22 20:45:33,170 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-23 10:20:26,155 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 10:20:32,512 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 10:21:16,377 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 10:21:18,046 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-23 10:23:50,455 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 10:23:53,205 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 10:24:07,446 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 10:24:10,481 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-23 10:27:43,283 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 10:27:46,556 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 10:28:03,632 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 10:28:05,463 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-23 10:33:01,144 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 10:33:05,287 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 10:33:27,425 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 10:33:30,654 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-23 10:34:00,458 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 10:34:01,222 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 10:34:15,912 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 10:34:19,118 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-23 10:37:56,610 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 10:37:57,612 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 10:38:04,421 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 10:38:06,006 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-23 10:38:49,372 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 10:39:03,035 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 10:39:06,326 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 10:39:06,470 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-23 10:39:27,069 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 10:39:27,185 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 10:39:37,691 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 10:39:43,354 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-23 10:39:44,196 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-23 10:47:45,017 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 10:47:46,508 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 10:47:52,009 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 10:47:52,194 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-23 10:48:35,116 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 10:48:35,281 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 10:49:49,521 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 10:49:49,755 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-23 10:50:11,952 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 10:50:12,117 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 10:50:20,372 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 10:50:33,866 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-23 10:50:34,490 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-23 10:53:16,928 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 10:53:17,713 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 10:53:33,231 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 10:53:33,575 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-23 10:55:36,586 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 10:55:36,951 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 10:55:49,228 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 10:55:51,083 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-23 10:56:26,496 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 10:56:26,949 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 10:56:33,547 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 10:56:33,688 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-23 10:57:05,092 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 10:57:05,185 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 10:57:13,407 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 10:57:18,367 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-23 10:57:19,054 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-23 10:57:19,756 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-23 10:58:14,401 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 10:58:15,064 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 10:58:24,802 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 10:58:25,083 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-23 10:59:00,068 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 10:59:00,949 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 10:59:32,259 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 10:59:32,649 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-23 10:59:47,622 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 10:59:48,527 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 11:00:00,406 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 11:00:03,021 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-23 11:00:04,302 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-23 11:00:05,316 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-23 11:09:27,173 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 11:09:31,433 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 11:09:54,980 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 11:10:02,054 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-23 11:10:17,596 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 11:10:18,471 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 11:10:25,322 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 11:10:25,721 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-23 11:10:40,018 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 11:10:40,102 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 11:10:46,469 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 11:10:54,192 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-23 11:10:54,870 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-23 11:10:57,475 [main] INFO InternetGuru99Bank - Button::::Clicked
+2021-04-23 11:25:28,614 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 11:25:30,847 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 11:25:38,946 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 11:25:39,667 [main] INFO InternetGuru99Bank - ::link::Checked::
+2021-04-23 11:25:53,475 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 11:25:53,563 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 11:26:07,575 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 11:26:08,084 [main] INFO InternetGuru99Bank - ::logo::Checked::
+2021-04-23 11:26:29,614 [main] INFO InternetGuru99Bank - Firefox::Browser::Opened
+2021-04-23 11:26:29,999 [main] INFO InternetGuru99Bank - Browser::Maximized
+2021-04-23 11:26:37,113 [main] INFO InternetGuru99Bank - url entered
+2021-04-23 11:26:43,346 [main] INFO InternetGuru99Bank - Username:::Entered
+2021-04-23 11:26:44,042 [main] INFO InternetGuru99Bank - Password:::Entered
+2021-04-23 11:26:44,850 [main] INFO InternetGuru99Bank - Button::::Clicked

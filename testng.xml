@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Guru99Banking">
+    <listeners>
+        <listener class-name="com.qa.ExtentReportListener.ExtentReporterNG"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/GUDU/Downloads/InternetGuru99Bank" parallel="tests">
+        <classes>
+            <class name="com.qa.test.AdminLogintest"/>
+          <!--<class name="com.qa.test.NewCustomerTest"/>-->
+         <!-- <class name="com.qa.test.HomePageTest"/>-->
+        </classes>
+    </test>
+</suite>
