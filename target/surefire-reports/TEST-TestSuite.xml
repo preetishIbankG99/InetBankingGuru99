@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="8.999" tests="3" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="285.305" tests="5" errors="0" skipped="2" failures="2">
   <properties>
+    <property name="idea.version" value="2017.2.5"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_191\jre\bin"/>
     <property name="java.vm.version" value="25.191-b12"/>
@@ -26,9 +27,9 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="C:\Users\GUDU\Downloads\Compressed\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin\m2.conf"/>
+    <property name="classworlds.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.5\plugins\maven\lib\maven3\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_191\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk1.8.0_191/bin;C:\Program Files\Java\jdk1.8.0_191/bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\Wbem;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\System32\WindowsPowerShell\v1.0\C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\system32\Wbem;C:\Program Files\Java\jdk1.8.0_111\bin;C:\Users\GUDU\Desktop\selenium e learn\apache-ant-1.10.1-bin\apache-ant-1.10.1\bin;C:\Users\GUDU\Downloads\Compressed\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;C:\Users\GUDU\Downloads\Compressed\apache-maven-3.3.9-bin\apache-maven-3.3.9;C:\Users\GUDU\AppData\Local\Programs\Python\Python35-32;C:\Users\GUDU\AppData\Local\Programs\Python\Python35-32\Scripts;?C:\Program Files\Google\Chrome\Application\chrome.exe;H:\geckodriver-v0.16.1-win32;C:\Users\GUDU\Downloads\SikuliX-Libs-1.1.0\META-INF\libs\windows\libs32;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_191\lib;C:\Program Files\PuTTY\;C:\Users\GUDU\Downloads\Compressed\apache-maven-3.3.9-bin\apache-maven-3.3.9;C:\Users\GUDU\Downloads\Compressed\apache-maven-3.3.9-bin\apache-maven-3.3.9;C:\Users\GUDU\Downloads\libs;C:\Program Files\Sikuli X\libs;C:\Users\GUDU\Downloads\libs;C:\Users\GUDU\Downloads\SikuliX-Libs-1.1.0\META-INF\libs\windows\libs32;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_191\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\system32\Wbem;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\System32\WindowsPowerShell\v1.0\C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\system32\Wbem;C:\Program Files\Java\jdk1.8.0_111\bin;C:\Users\GUDU\Desktop\selenium e learn\apache-ant-1.10.1-bin\apache-ant-1.10.1\bin;C:\Users\GUDU\Downloads\Compressed\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;C:\Users\GUDU\Downloads\Compressed\apache-maven-3.3.9-bin\apache-maven-3.3.9;C:\Users\GUDU\AppData\Local\Programs\Python\Python35-32;C:\Users\GUDU\AppData\Local\Programs\Python\Python35-32\Scripts;?C:\Program Files\Google\Chrome\Application\chrome.exe;H:\geckodriver-v0.16.1-win32;C:\Users\GUDU\Downloads\SikuliX-Libs-1.1.0\META-INF\libs\windows\libs32;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_191\lib;C:\Program Files\PuTTY\;C:\Users\GUDU\Downloads\Compressed\apache-maven-3.3.9-bin\apache-maven-3.3.9;C:\Users\GUDU\Downloads\Compressed\apache-maven-3.3.9-bin\apache-maven-3.3.9;C:\Users\GUDU\Downloads\libs;C:\Program Files\Sikuli X\libs;C:\Users\GUDU\Downloads\libs;C:\Users\GUDU\Downloads\SikuliX-Libs-1.1.0\META-INF\libs\windows\libs32;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
@@ -37,13 +38,13 @@
     <property name="user.timezone" value="Asia/Calcutta"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
-    <property name="file.encoding" value="Cp1252"/>
+    <property name="file.encoding" value="UTF-8"/>
     <property name="user.name" value="GUDU"/>
-    <property name="java.class.path" value="C:\Users\GUDU\Downloads\Compressed\apache-maven-3.3.9-bin\apache-maven-3.3.9\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.5\plugins\maven\lib\maven3\boot\plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="32"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_191\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2017.2.5 test"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -52,7 +53,7 @@
     <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_191\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_191\jre\classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="C:\Users\GUDU\Downloads\Compressed\apache-maven-3.3.9-bin\apache-maven-3.3.9"/>
+    <property name="maven.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.5\plugins\maven\lib\maven3"/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -60,7 +61,159 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
   </properties>
-  <testcase name="checkingLink" classname="com.qa.test.AdminLogintest" time="0.933"/>
-  <testcase name="checkingLogo" classname="com.qa.test.AdminLogintest" time="0.383"/>
-  <testcase name="logincredential" classname="com.qa.test.AdminLogintest" time="7.683"/>
+  <testcase name="testLogin" classname="com.qa.test.DataDrivenTest" time="132.361"/>
+  <testcase name="testLogin" classname="com.qa.test.DataDrivenTest" time="78.126">
+    <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at org.testng.Assert.assertTrue(Assert.java:54)
+	at com.qa.test.DataDrivenTest.testLogin(DataDrivenTest.java:53)
+</failure>
+    <system-out><![CDATA[ INFO [main] (TestBase.java:41)- Firefox::Browser::Opened
+ INFO [main] (TestBase.java:61)- Browser::Maximized
+Before navigating to: 'http://demo.guru99.com/v4/'
+Navigated to:'http://demo.guru99.com/v4/'
+ INFO [main] (TestBase.java:63)- url entered
+Trying to find Element By : By.cssSelector: input[name='uid']
+Found Element By : By.cssSelector: input[name='uid']
+Value of the:[[FirefoxDriver: firefox on WINDOWS (c757e13f-769e-4753-b85f-dc872171c099)] -> css selector: input[name='uid']] before any changes made
+Element value changed to: [[FirefoxDriver: firefox on WINDOWS (c757e13f-769e-4753-b85f-dc872171c099)] -> css selector: input[name='uid']]
+Found script By : arguments[0].setAttribute('style', 'background: yellow; border: 2px solid red;');
+Found script By : arguments[0].setAttribute('style','border: solid 2px white');
+ INFO [main] (DataDrivenTest.java:42)- ::::username Entered:::
+Trying to find Element By : By.cssSelector: input[name='password']
+Found Element By : By.cssSelector: input[name='password']
+Value of the:[[FirefoxDriver: firefox on WINDOWS (c757e13f-769e-4753-b85f-dc872171c099)] -> css selector: input[name='password']] before any changes made
+Element value changed to: [[FirefoxDriver: firefox on WINDOWS (c757e13f-769e-4753-b85f-dc872171c099)] -> css selector: input[name='password']]
+Found script By : arguments[0].setAttribute('style', 'background: yellow; border: 2px solid red;');
+Found script By : arguments[0].setAttribute('style','border: solid 2px white');
+ INFO [main] (DataDrivenTest.java:44)- ::::password Entered:::
+Trying to find Element By : By.cssSelector: input[name='btnLogin']
+Found Element By : By.cssSelector: input[name='btnLogin']
+Trying to click on: [[FirefoxDriver: firefox on WINDOWS (c757e13f-769e-4753-b85f-dc872171c099)] -> css selector: input[name='btnLogin']]
+Clicked on: [[FirefoxDriver: firefox on WINDOWS (c757e13f-769e-4753-b85f-dc872171c099)] -> css selector: input[name='btnLogin']]
+ INFO [main] (DataDrivenTest.java:46)- ::::login clicked:::
+]]></system-out>
+  </testcase>
+  <testcase name="testLogin" classname="com.qa.test.DataDrivenTest" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="browserSetup" classname="com.qa.test.DataDrivenTest" time="152.944">
+    <failure message="Failed to connect to binary FirefoxBinary(C:\Program Files\Mozilla Firefox\firefox.exe) on port 7055; process output follows: &#10;1619331349380	addons.manager	DEBUG	Application has been upgraded&#10;1619331350332	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: [&quot;XPIProvider&quot;]&#10;1619331350336	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: [&quot;LightweightThemeManager&quot;]&#10;1619331350341	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm&#10;1619331350344	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm&#10;1619331350345	addons.manager	DEBUG	Starting provider: XPIProvider&#10;1619331350346	addons.xpi	DEBUG	startup&#10;1619331350347	addons.xpi	INFO	Mapping fxdriver@googlecode.com to C:\Users\GUDU\AppData\Local\Temp\anonymous7095294554554933269webdriver-profile\extensions\fxdriver@googlecode.com&#10;1619331350347	addons.xpi	DEBUG	Ignoring file entry whose name is not a valid add-on ID: C:\Users\GUDU\AppData\Local\Temp\anonymous7095294554554933269webdriver-profile\extensions\webdriver-staging&#10;1619331350348	addons.xpi	INFO	SystemAddonInstallLocation directory is missing&#10;1619331350351	addons.xpi	WARN	Ignoring missing add-on in C:\Program Files\Internet Download Manager\idmmzcc2.xpi&#10;1619331350352	addons.xpi	INFO	Mapping mozilla_cc@internetdownloadmanager.com to C:\Users\GUDU\AppData\Roaming\IDM\idmmzcc5&#10;1619331350353	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}&#10;1619331350353	addons.xpi	DEBUG	Skipping unavailable install location app-system-share&#10;1619331350353	addons.xpi	DEBUG	Skipping unavailable install location app-system-local&#10;1619331350354	addons.xpi	DEBUG	checkForChanges&#10;1619331350355	addons.xpi	DEBUG	Loaded add-on state from prefs: {}&#10;1619331350355	addons.xpi	DEBUG	New add-on fxdriver@googlecode.com in app-profile&#10;1619331350356	addons.xpi	DEBUG	getModTime: Recursive scan of fxdriver@googlecode.com&#10;1619331350364	addons.xpi	DEBUG	New add-on mozilla_cc@internetdownloadmanager.com in winreg-app-user&#10;1619331350365	addons.xpi	DEBUG	getModTime: Recursive scan of mozilla_cc@internetdownloadmanager.com&#10;1619331350378	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global&#10;1619331350379	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}&#10;1619331350381	addons.xpi	DEBUG	getInstallState changed: true, state: {&quot;app-profile&quot;:{&quot;fxdriver@googlecode.com&quot;:{&quot;d&quot;:&quot;C:\\Users\\GUDU\\AppData\\Local\\Temp\\anonymous7095294554554933269webdriver-profile\\extensions\\fxdriver@googlecode.com&quot;,&quot;st&quot;:1619331312487,&quot;mt&quot;:1619331312471}},&quot;winreg-app-user&quot;:{&quot;mozilla_cc@internetdownloadmanager.com&quot;:{&quot;d&quot;:&quot;C:\\Users\\GUDU\\AppData\\Roaming\\IDM\\idmmzcc5&quot;,&quot;st&quot;:1558096344504,&quot;mt&quot;:1558096344442}},&quot;app-global&quot;:{&quot;{972ce4c6-7e08-4474-a285-3208198ce6fd}&quot;:{&quot;d&quot;:&quot;C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}&quot;,&quot;st&quot;:1541159009233,&quot;mt&quot;:1450322003000}}}&#10;1619331350393	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\GUDU\AppData\Local\Temp\anonymous7095294554554933269webdriver-profile\extensions.json&#10;1619331350395	addons.xpi-utils	DEBUG	New add-on fxdriver@googlecode.com installed in app-profile&#10;*** Blocklist::_loadBlocklistFromFile: blocklist is disabled&#10;&#10;Build info: version: &apos;2.53.0&apos;, revision: &apos;35ae25b1534ae328c771e0856c93e187490ca824&apos;, time: &apos;2016-03-15 10:43:46&apos;&#10;System info: host: &apos;GUDU-PC&apos;, ip: &apos;192.168.43.50&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;x86&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_191&apos;&#10;Driver info: driver.version: FirefoxDriver" type="org.openqa.selenium.WebDriverException"><![CDATA[org.openqa.selenium.WebDriverException: Failed to connect to binary FirefoxBinary(C:\Program Files\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+1619331349380	addons.manager	DEBUG	Application has been upgraded
+1619331350332	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1619331350336	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1619331350341	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1619331350344	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1619331350345	addons.manager	DEBUG	Starting provider: XPIProvider
+1619331350346	addons.xpi	DEBUG	startup
+1619331350347	addons.xpi	INFO	Mapping fxdriver@googlecode.com to C:\Users\GUDU\AppData\Local\Temp\anonymous7095294554554933269webdriver-profile\extensions\fxdriver@googlecode.com
+1619331350347	addons.xpi	DEBUG	Ignoring file entry whose name is not a valid add-on ID: C:\Users\GUDU\AppData\Local\Temp\anonymous7095294554554933269webdriver-profile\extensions\webdriver-staging
+1619331350348	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1619331350351	addons.xpi	WARN	Ignoring missing add-on in C:\Program Files\Internet Download Manager\idmmzcc2.xpi
+1619331350352	addons.xpi	INFO	Mapping mozilla_cc@internetdownloadmanager.com to C:\Users\GUDU\AppData\Roaming\IDM\idmmzcc5
+1619331350353	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}
+1619331350353	addons.xpi	DEBUG	Skipping unavailable install location app-system-share
+1619331350353	addons.xpi	DEBUG	Skipping unavailable install location app-system-local
+1619331350354	addons.xpi	DEBUG	checkForChanges
+1619331350355	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+1619331350355	addons.xpi	DEBUG	New add-on fxdriver@googlecode.com in app-profile
+1619331350356	addons.xpi	DEBUG	getModTime: Recursive scan of fxdriver@googlecode.com
+1619331350364	addons.xpi	DEBUG	New add-on mozilla_cc@internetdownloadmanager.com in winreg-app-user
+1619331350365	addons.xpi	DEBUG	getModTime: Recursive scan of mozilla_cc@internetdownloadmanager.com
+1619331350378	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1619331350379	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1619331350381	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-profile":{"fxdriver@googlecode.com":{"d":"C:\\Users\\GUDU\\AppData\\Local\\Temp\\anonymous7095294554554933269webdriver-profile\\extensions\\fxdriver@googlecode.com","st":1619331312487,"mt":1619331312471}},"winreg-app-user":{"mozilla_cc@internetdownloadmanager.com":{"d":"C:\\Users\\GUDU\\AppData\\Roaming\\IDM\\idmmzcc5","st":1558096344504,"mt":1558096344442}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","st":1541159009233,"mt":1450322003000}}}
+1619331350393	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\GUDU\AppData\Local\Temp\anonymous7095294554554933269webdriver-profile\extensions.json
+1619331350395	addons.xpi-utils	DEBUG	New add-on fxdriver@googlecode.com installed in app-profile
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'GUDU-PC', ip: '192.168.43.50', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: driver.version: FirefoxDriver
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:113)
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:271)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:119)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:216)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:211)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:207)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:120)
+	at com.qa.base.TestBase.initialization(TestBase.java:40)
+	at com.qa.test.DataDrivenTest.browserSetup(DataDrivenTest.java:33)
+]]></failure>
+    <system-err><![CDATA[org.openqa.selenium.firefox.NotConnectedException: Unable to connect to host 127.0.0.1 on port 7055 after 45000 ms. Firefox console output:
+1619331349380	addons.manager	DEBUG	Application has been upgraded
+1619331350332	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1619331350336	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1619331350341	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1619331350344	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1619331350345	addons.manager	DEBUG	Starting provider: XPIProvider
+1619331350346	addons.xpi	DEBUG	startup
+1619331350347	addons.xpi	INFO	Mapping fxdriver@googlecode.com to C:\Users\GUDU\AppData\Local\Temp\anonymous7095294554554933269webdriver-profile\extensions\fxdriver@googlecode.com
+1619331350347	addons.xpi	DEBUG	Ignoring file entry whose name is not a valid add-on ID: C:\Users\GUDU\AppData\Local\Temp\anonymous7095294554554933269webdriver-profile\extensions\webdriver-staging
+1619331350348	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1619331350351	addons.xpi	WARN	Ignoring missing add-on in C:\Program Files\Internet Download Manager\idmmzcc2.xpi
+1619331350352	addons.xpi	INFO	Mapping mozilla_cc@internetdownloadmanager.com to C:\Users\GUDU\AppData\Roaming\IDM\idmmzcc5
+1619331350353	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}
+1619331350353	addons.xpi	DEBUG	Skipping unavailable install location app-system-share
+1619331350353	addons.xpi	DEBUG	Skipping unavailable install location app-system-local
+1619331350354	addons.xpi	DEBUG	checkForChanges
+1619331350355	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+1619331350355	addons.xpi	DEBUG	New add-on fxdriver@googlecode.com in app-profile
+1619331350356	addons.xpi	DEBUG	getModTime: Recursive scan of fxdriver@googlecode.com
+1619331350364	addons.xpi	DEBUG	New add-on mozilla_cc@internetdownloadmanager.com in winreg-app-user
+1619331350365	addons.xpi	DEBUG	getModTime: Recursive scan of mozilla_cc@internetdownloadmanager.com
+1619331350378	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1619331350379	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1619331350381	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-profile":{"fxdriver@googlecode.com":{"d":"C:\\Users\\GUDU\\AppData\\Local\\Temp\\anonymous7095294554554933269webdriver-profile\\extensions\\fxdriver@googlecode.com","st":1619331312487,"mt":1619331312471}},"winreg-app-user":{"mozilla_cc@internetdownloadmanager.com":{"d":"C:\\Users\\GUDU\\AppData\\Roaming\\IDM\\idmmzcc5","st":1558096344504,"mt":1558096344442}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","st":1541159009233,"mt":1450322003000}}}
+1619331350393	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\GUDU\AppData\Local\Temp\anonymous7095294554554933269webdriver-profile\extensions.json
+1619331350395	addons.xpi-utils	DEBUG	New add-on fxdriver@googlecode.com installed in app-profile
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:113)
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:271)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:119)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:216)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:211)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:207)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:120)
+	at com.qa.base.TestBase.initialization(TestBase.java:40)
+	at com.qa.test.DataDrivenTest.browserSetup(DataDrivenTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:523)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]></system-err>
+  </testcase>
+  <testcase name="closeBrowser" classname="com.qa.test.DataDrivenTest" time="0">
+    <skipped/>
+  </testcase>
 </testsuite>

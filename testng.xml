@@ -4,10 +4,12 @@
     <listeners>
         <listener class-name="com.qa.ExtentReportListener.ExtentReporterNG"/>
     </listeners>
-    <test verbose="2" preserve-order="true" name="C:/Users/GUDU/Downloads/InternetGuru99Bank" parallel="tests">
+  <!--  <test verbose="2" preserve-order="true" name="C:/Users/GUDU/Downloads/InternetGuru99Bank" parallel="tests">-->
+    <test verbose="2" preserve-order="true" name="C:/Users/GUDU/Downloads/InternetGuru99Bank">
         <classes>
-            <class name="com.qa.test.AdminLogintest"/>
+           <!-- <class name="com.qa.test.AdminLogintest"/>-->
           <!--<class name="com.qa.test.NewCustomerTest"/>-->
+            <class name="com.qa.test.DataDrivenTest"/>
          <!-- <class name="com.qa.test.HomePageTest"/>-->
         </classes>
     </test>

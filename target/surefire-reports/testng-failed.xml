@@ -4,16 +4,15 @@
   <listeners>
     <listener class-name="com.qa.ExtentReportListener.ExtentReporterNG"/>
   </listeners>
-  <test thread-count="5" verbose="0" name="C:/Users/GUDU/Downloads/InternetGuru99Bank(failed)" parallel="tests">
+  <test thread-count="5" verbose="0" name="C:/Users/GUDU/Downloads/InternetGuru99Bank(failed)">
     <classes>
-      <class name="com.qa.test.AdminLogintest">
+      <class name="com.qa.test.DataDrivenTest">
         <methods>
-          <include name="teardown"/>
-          <include name="checkingLogo"/>
-          <include name="setUp"/>
-          <include name="logincredential"/>
+          <include name="testLogin" invocation-numbers="1"/>
+          <include name="browserSetup"/>
+          <include name="closeBrowser"/>
         </methods>
-      </class> <!-- com.qa.test.AdminLogintest -->
+      </class> <!-- com.qa.test.DataDrivenTest -->
     </classes>
   </test> <!-- C:/Users/GUDU/Downloads/InternetGuru99Bank(failed) -->
 </suite> <!-- Failed suite [Guru99Banking] -->

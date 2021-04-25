@@ -766,3 +766,34 @@
 2021-04-23 11:26:43,346 - InternetGuru99Bank -INFO - Username:::Entered
 2021-04-23 11:26:44,042 - InternetGuru99Bank -INFO - Password:::Entered
 2021-04-23 11:26:44,850 - InternetGuru99Bank -INFO - Button::::Clicked
+2021-04-23 18:43:14,754 - InternetGuru99Bank -INFO - Firefox::Browser::Opened
+2021-04-23 18:43:27,459 - InternetGuru99Bank -INFO - Browser::Maximized
+2021-04-23 18:43:57,330 - InternetGuru99Bank -INFO - url entered
+2021-04-23 18:43:58,203 - InternetGuru99Bank -INFO - ::link::Checked::
+2021-04-23 18:44:18,634 - InternetGuru99Bank -INFO - Firefox::Browser::Opened
+2021-04-23 18:44:18,875 - InternetGuru99Bank -INFO - Browser::Maximized
+2021-04-23 18:45:02,100 - InternetGuru99Bank -INFO - url entered
+2021-04-23 18:45:02,553 - InternetGuru99Bank -INFO - ::logo::Checked::
+2021-04-23 18:45:22,105 - InternetGuru99Bank -INFO - Firefox::Browser::Opened
+2021-04-23 18:45:23,980 - InternetGuru99Bank -INFO - Browser::Maximized
+2021-04-23 18:46:06,265 - InternetGuru99Bank -INFO - url entered
+2021-04-23 18:46:14,127 - InternetGuru99Bank -INFO - Username:::Entered
+2021-04-23 18:46:14,829 - InternetGuru99Bank -INFO - Password:::Entered
+2021-04-23 18:46:16,405 - InternetGuru99Bank -INFO - Button::::Clicked
+2021-04-24 11:08:02,226 - InternetGuru99Bank -INFO - Firefox::Browser::Opened
+2021-04-24 11:08:15,520 - InternetGuru99Bank -INFO - Browser::Maximized
+2021-04-24 11:08:39,103 - InternetGuru99Bank -INFO - url entered
+2021-04-24 11:08:51,333 - InternetGuru99Bank -INFO - :::::New Customer Link Clicked::::::
+2021-04-25 11:38:55,525 - InternetGuru99Bank -INFO - Firefox::Browser::Opened
+2021-04-25 11:38:59,989 - InternetGuru99Bank -INFO - Browser::Maximized
+2021-04-25 11:40:14,760 - InternetGuru99Bank -INFO - url entered
+2021-04-25 11:40:25,150 - InternetGuru99Bank -INFO - ::::username Entered:::
+2021-04-25 11:40:25,805 - InternetGuru99Bank -INFO - ::::password Entered:::
+2021-04-25 11:40:28,114 - InternetGuru99Bank -INFO - ::::login clicked:::
+2021-04-25 11:41:13,042 - InternetGuru99Bank -INFO - Login passed
+2021-04-25 11:43:05,554 - InternetGuru99Bank -INFO - Firefox::Browser::Opened
+2021-04-25 11:43:06,320 - InternetGuru99Bank -INFO - Browser::Maximized
+2021-04-25 11:43:53,207 - InternetGuru99Bank -INFO - url entered
+2021-04-25 11:44:01,038 - InternetGuru99Bank -INFO - ::::username Entered:::
+2021-04-25 11:44:01,787 - InternetGuru99Bank -INFO - ::::password Entered:::
+2021-04-25 11:44:04,657 - InternetGuru99Bank -INFO - ::::login clicked:::

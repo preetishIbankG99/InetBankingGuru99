@@ -1,4 +1,55 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 135.642 sec - in TestSuite
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 2, Time elapsed: 587.968 sec <<< FAILURE! - in TestSuite
+testLogin(com.qa.test.DataDrivenTest)  Time elapsed: 78.126 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at org.testng.Assert.assertTrue(Assert.java:54)
+	at com.qa.test.DataDrivenTest.testLogin(DataDrivenTest.java:53)
+
+browserSetup(com.qa.test.DataDrivenTest)  Time elapsed: 152.944 sec  <<< FAILURE!
+org.openqa.selenium.WebDriverException: Failed to connect to binary FirefoxBinary(C:\Program Files\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+1619331349380	addons.manager	DEBUG	Application has been upgraded
+1619331350332	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1619331350336	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1619331350341	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1619331350344	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1619331350345	addons.manager	DEBUG	Starting provider: XPIProvider
+1619331350346	addons.xpi	DEBUG	startup
+1619331350347	addons.xpi	INFO	Mapping fxdriver@googlecode.com to C:\Users\GUDU\AppData\Local\Temp\anonymous7095294554554933269webdriver-profile\extensions\fxdriver@googlecode.com
+1619331350347	addons.xpi	DEBUG	Ignoring file entry whose name is not a valid add-on ID: C:\Users\GUDU\AppData\Local\Temp\anonymous7095294554554933269webdriver-profile\extensions\webdriver-staging
+1619331350348	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1619331350351	addons.xpi	WARN	Ignoring missing add-on in C:\Program Files\Internet Download Manager\idmmzcc2.xpi
+1619331350352	addons.xpi	INFO	Mapping mozilla_cc@internetdownloadmanager.com to C:\Users\GUDU\AppData\Roaming\IDM\idmmzcc5
+1619331350353	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}
+1619331350353	addons.xpi	DEBUG	Skipping unavailable install location app-system-share
+1619331350353	addons.xpi	DEBUG	Skipping unavailable install location app-system-local
+1619331350354	addons.xpi	DEBUG	checkForChanges
+1619331350355	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+1619331350355	addons.xpi	DEBUG	New add-on fxdriver@googlecode.com in app-profile
+1619331350356	addons.xpi	DEBUG	getModTime: Recursive scan of fxdriver@googlecode.com
+1619331350364	addons.xpi	DEBUG	New add-on mozilla_cc@internetdownloadmanager.com in winreg-app-user
+1619331350365	addons.xpi	DEBUG	getModTime: Recursive scan of mozilla_cc@internetdownloadmanager.com
+1619331350378	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1619331350379	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1619331350381	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-profile":{"fxdriver@googlecode.com":{"d":"C:\\Users\\GUDU\\AppData\\Local\\Temp\\anonymous7095294554554933269webdriver-profile\\extensions\\fxdriver@googlecode.com","st":1619331312487,"mt":1619331312471}},"winreg-app-user":{"mozilla_cc@internetdownloadmanager.com":{"d":"C:\\Users\\GUDU\\AppData\\Roaming\\IDM\\idmmzcc5","st":1558096344504,"mt":1558096344442}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","st":1541159009233,"mt":1450322003000}}}
+1619331350393	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\GUDU\AppData\Local\Temp\anonymous7095294554554933269webdriver-profile\extensions.json
+1619331350395	addons.xpi-utils	DEBUG	New add-on fxdriver@googlecode.com installed in app-profile
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'GUDU-PC', ip: '192.168.43.50', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: driver.version: FirefoxDriver
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:113)
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:271)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:119)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:216)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:211)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:207)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:120)
+	at com.qa.base.TestBase.initialization(TestBase.java:40)
+	at com.qa.test.DataDrivenTest.browserSetup(DataDrivenTest.java:33)
+

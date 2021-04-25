@@ -1,1 +1,13 @@
+com\qa\pages\EditCustomer.class
+com\qa\pages\Homepage.class
+com\qa\utility\SendAMail.class
+com\qa\utility\XLUtils.class
+com\qa\utility\TestUtil.class
+com\qa\pages\NewCustomer.class
 com\qa\utility\ElementHighlighter.class
+com\qa\pages\DeleteCustomer.class
+com\qa\utility\WebEventListener.class
+com\qa\ExtentReportListener\ExtentReporterNG.class
+com\qa\pages\AdminLogin.class
+com\qa\utility\SendAMail$1.class
+com\qa\base\TestBase.class

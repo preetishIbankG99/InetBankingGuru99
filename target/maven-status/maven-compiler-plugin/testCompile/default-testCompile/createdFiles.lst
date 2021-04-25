@@ -1,0 +1,6 @@
+com\qa\test\DeleteCustomerTest.class
+com\qa\test\DataDrivenTest.class
+com\qa\test\AdminLogintest.class
+com\qa\test\EditCustomerTest.class
+com\qa\test\HomePageTest.class
+com\qa\test\NewCustomerTest.class

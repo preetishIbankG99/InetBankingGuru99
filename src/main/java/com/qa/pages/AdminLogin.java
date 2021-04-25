@@ -38,6 +38,10 @@ public class AdminLogin extends TestBase {
     @FindBy(how=How.XPATH,using = "//a[text()='Agile Project']")
     @CacheLookup
     WebElement linkverification;
+
+    @FindBy(xpath="//a[text()='Log out']")
+    @CacheLookup
+    WebElement lnkLogout;
     //creating Constructor for initializing PageObjects
     public AdminLogin()throws IOException{
         PageFactory.initElements(driver,this
@@ -62,6 +66,7 @@ public class AdminLogin extends TestBase {
 
     }
 
+
     public void clickResetbtn() {
         resetbtn.click();
     }
@@ -79,4 +84,13 @@ public class AdminLogin extends TestBase {
         if(text.contains("Agile Project"));
         System.out.println("Link Verified successfully");
     }
+
+    public void clickLogout()
+    {
+        lnkLogout.click();
+    }
+
+
+
+
 }
